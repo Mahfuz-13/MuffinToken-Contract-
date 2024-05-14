@@ -1,0 +1,13 @@
+2024-05-05 01:09:50.938 [info] 
+
+
+
+
+2024-05-05 01:09:50.938 [info] Extension host agent started.
+2024-05-05 01:09:50.938 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mahfuz/.vscode-server/extensions
+2024-05-05 01:09:50.959 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mahfuz/.vscode-server/extensions
+2024-05-05 01:09:51.429 [info] [127.0.0.1][457666a1][ManagementConnection] New connection established.
+2024-05-05 01:09:51.832 [info] [127.0.0.1][02dd068b][ExtensionHostConnection] New connection established.
+2024-05-05 01:09:51.849 [info] [127.0.0.1][02dd068b][ExtensionHostConnection] <629> Launched Extension Host Process.
+2024-05-05 01:13:36.409 [info] [127.0.0.1][457666a1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-05 01:13:36.439 [info] [127.0.0.1][02dd068b][ExtensionHostConnection] <629> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,4 @@
+code .
+wsl
+cd ../
+cd ..
